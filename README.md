@@ -4,4 +4,4 @@ coronavirus-barchart.py
 - Web scrapes https://www.worldometers.info/coronavirus/ and visualizes top 10 countries by cases and deaths
 
 craigslist-webscraper.py
-- Web scraps https://craigslist.org/ for keyword search and downloads results into a .csv file
+- Web scrapes https://craigslist.org/ for keyword search and downloads results into a .csv file
